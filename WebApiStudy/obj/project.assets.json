@@ -1013,11 +1013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mctam\\source\\repos\\WebApplication1\\WebApplication1\\WebApiStudy.csproj",
+      "projectUniqueName": "C:\\Users\\mctam\\source\\repos\\WebApiStudy\\WebApiStudy\\WebApiStudy.csproj",
       "projectName": "WebApiStudy",
-      "projectPath": "C:\\Users\\mctam\\source\\repos\\WebApplication1\\WebApplication1\\WebApiStudy.csproj",
+      "projectPath": "C:\\Users\\mctam\\source\\repos\\WebApiStudy\\WebApiStudy\\WebApiStudy.csproj",
       "packagesPath": "C:\\Users\\mctam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mctam\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\mctam\\source\\repos\\WebApiStudy\\WebApiStudy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mctam\\AppData\\Roaming\\NuGet\\NuGet.Config",

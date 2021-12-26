@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6KM5AaCnPK0ETyguHZ3iWIkHzINCZn0i3T683UB5aVS4jmmgsxEHeJEVKpO5OO66bQ1k0dcV+r87kI82LaB0+w==",
+  "dgSpecHash": "cgYZXJEd1q3iT9gdNFdTO25ophPcXd/ErC3qGzp7Amj5SRfmcC0lFikYpwynHFXGZZ9EuA3P+fbFr6Fr1VkMcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mctam\\source\\repos\\WebApplication1\\WebApplication1\\WebApiStudy.csproj",
+  "projectFilePath": "C:\\Users\\mctam\\source\\repos\\WebApiStudy\\WebApiStudy\\WebApiStudy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mctam\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mctam\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
